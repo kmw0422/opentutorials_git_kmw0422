@@ -1,5 +1,8 @@
 <html>
     <head>
+
+실험적 코드
+
         <meta charset="UTF-8" />
         <title>GIT 수업</title>
     </head> 
