@@ -3,6 +3,7 @@
 
 실험적 코드
 
+pull
 push origin
 push again
 push
