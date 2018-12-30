@@ -3,6 +3,7 @@
 
 실험적 코드
 
+push origin
 push again
 push
 또 충돌?
