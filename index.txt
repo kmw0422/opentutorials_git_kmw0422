@@ -9,7 +9,7 @@
 충돌 실험!!
 충돌시험내용추가
 
-        <meta charset="UTF-8" />
+        <meta charset="UTF-8" />//encoding
         <title>GIT 수업</title>
     </head> 
     <body>
