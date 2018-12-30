@@ -4,6 +4,7 @@
 실험적 코드
 
 충돌 실험!!
+충돌시험내용추가
 
         <meta charset="UTF-8" />
         <title>GIT 수업</title>
